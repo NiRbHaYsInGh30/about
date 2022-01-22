@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/@nirbhaysingh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nirbhaysingh30" height="30" width="40" /></a>
 <a href="https://twitter.com/nirbhay02858112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirbhay02858112" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirbhay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirbhay singh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nirbhay-singh-05353320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirbhay singh" height="30" width="40" /></a>
 <a href="https://fb.com/nirbhay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirbhay singh" height="30" width="40" /></a>
 </p>
 
