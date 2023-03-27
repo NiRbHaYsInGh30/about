@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Singh</h1>
-<h3 align="center">CSE 1st year student</h3>
+<h3 align="center">CSE 2nd year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirbhaysingh30&label=Profile%20views&color=0e75b6&style=flat" alt="nirbhaysingh30" /> </p>
 
