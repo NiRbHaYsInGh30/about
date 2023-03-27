@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nirbhay02858112" target="blank"><img src="https://img.shields.io/twitter/follow/nirbhay02858112?logo=twitter&style=for-the-badge" alt="nirbhay02858112" /></a> </p>
 
-- 🌱 I’m currently learning **React and c++**
+- 🌱 I’m currently learning **DevOps && fullstack dev**
 
 - 📫 How to reach me **ns362038@gmail.com**
 
