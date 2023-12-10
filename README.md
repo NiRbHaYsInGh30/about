@@ -5,8 +5,8 @@ Nirbhay Singh
 Developer
 ---------
 
-This  is my playground where I experiment, learn, and showcase my journey through the realms of software
-development and computer science.
+This  is my playground where I experiment, learn, and showcase my journey through the realms of 
+development 
 
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio at [under construction](http://myapp.com)
