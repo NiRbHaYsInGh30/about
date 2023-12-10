@@ -1,4 +1,3 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nirbhay Singh
 =====================================================================================================================================
 
@@ -16,7 +15,7 @@ This repository is my playground where I experiment, learn, and showcase my jour
 * ⚡  i love making 3d models
 
 <a href="https://www.github.com/NiRbhAySiNgh30" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NiRbhAySiNgh30?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/NiRbhAySiNgh30?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -34,14 +33,8 @@ src="https://img.shields.io/github/followers/NiRbhAySiNgh30?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NiRbhAySiNgh30"><img src="https://github-readme-stats.vercel.app/api?username=NiRbhAySiNgh30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NiRbhAySiNgh30's GitHub stats" /></a>
+<a href="http://www.github.com/NiRbhAySiNgh30"><img src="https://github-readme-stats.vercel.app/api?username=NiRbhAySiNgh30&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=f97316&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="NiRbhAySiNgh30's GitHub stats" /></a>
 
-<a href="http://www.github.com/NiRbhAySiNgh30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NiRbhAySiNgh30&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NiRbhAySiNgh30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NiRbhAySiNgh30&stroke=f97316&background=000000&ring=6366f1&fire=6366f1&currStreakNum=f97316&currStreakLabel=6366f1&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/NiRbhAySiNgh30"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NiRbhAySiNgh30&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/NiRbhAySiNgh30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiRbhAySiNgh30&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/NiRbhAySiNgh30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiRbhAySiNgh30&langs_count=10&title_color=6366f1&text_color=f97316&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
