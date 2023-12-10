@@ -5,7 +5,7 @@ Nirbhay Singh
 Developer
 ---------
 
-This repository is my playground where I experiment, learn, and showcase my journey through the realms of software
+This  is my playground where I experiment, learn, and showcase my journey through the realms of software
 development and computer science.
 
 * 🌍  I'm based in New Delhi
