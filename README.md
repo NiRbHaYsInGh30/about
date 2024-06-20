@@ -9,7 +9,7 @@ This  is my playground where I experiment, learn, and showcase my journey throug
 development 
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio ([http://myapp.com](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
+* 🖥️  See my portfolio ([Profile](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
 * ✉️  You can contact me at [nirbhay.sw@gmail.com](mailto:nirbhay.sw@gmail.com)
 * 🚀  I'm currently working on [s bot](http://s)
 * 🧠  I'm learning Devops,DSA,Backend Dev
