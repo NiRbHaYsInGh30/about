@@ -11,7 +11,7 @@ development
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio ([Profile](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
 * ✉️  You can contact me at [nirbhay.sw@gmail.com](mailto:nirbhay.sw@gmail.com)
-* 🚀  I'm currently working on [s bot](http://s)
+###* 🚀  I'm currently working on [s bot](http://s)
 * 🧠  I'm learning Devops,DSA,Backend Dev
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  i love making 3d models
