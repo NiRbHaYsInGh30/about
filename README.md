@@ -11,10 +11,7 @@ development
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio ([Profile](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
 * ✉️  You can contact me at [nirbhay.sw@gmail.com](mailto:nirbhay.sw@gmail.com)
-* 🧠  I'm learning Dsa
-* 🤝  I'm open to collaborating on Frontend Projects
-* ⚡  i love making 3d models
-
+* 🤝  I'm open to collaborating on Projects
 <a href="https://www.github.com/NiRbhAySiNgh30" target="_blank" rel="noreferrer"><img
         src="https://img.shields.io/github/followers/NiRbhAySiNgh30?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
