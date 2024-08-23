@@ -8,7 +8,7 @@ Developer
 This  is my playground where I experiment, learn, and showcase my journey through the realms of 
 development 
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in New Delhi(India)
 * 🖥️  See my portfolio ([Link](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
 * ✉️  You can contact me at [nirbhay.sw@gmail.com](mailto:nirbhay.sw@gmail.com)
 * 🤝  I'm open to collaborating on Projects
