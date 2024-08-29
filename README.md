@@ -116,9 +116,7 @@ development
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
                 width="32" height="32" /> </picture>
     </a></p>
-
-### Badges
-
+    
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/NiRbhAySiNgh30"><img
