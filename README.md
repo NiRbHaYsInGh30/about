@@ -11,7 +11,7 @@ development
 * 🌍  I'm based in New Delhi(India)
 * 🖥️  See my portfolio ([Link](https://portfolio-git-main-nirbhaysingh30s-projects.vercel.app/))
 * ✉️  You can contact me at [nirbhay.sw@gmail.com](mailto:nirbhay.sw@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating 
 
 
 <a href="https://www.github.com/NiRbhAySiNgh30" target="_blank" rel="noreferrer"><img
